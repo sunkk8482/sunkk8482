@@ -19,8 +19,9 @@
  ---
 <h3 >📜 나는 📜</h3>
 
-- 인천대학교 임베디드시스템공학과 졸업
+- 인천대학교 임베디드시스템공학과
 - IPG AUTOMOTIVE CarMaker User Training 수료
+- 삼성 SDS 2023 동계 알고리즘 특강 수료
 - SSAFY 11기 임베디드트랙 ~ing
 
 
