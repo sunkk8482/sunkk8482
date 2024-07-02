@@ -33,6 +33,8 @@
   인천대학교 자율주행SW챌린지 은상<br/>
   SSAFY 1학기 관통프로젝트 우수상<br/>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunkk8482)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **sunkk8482/sunkk8482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
