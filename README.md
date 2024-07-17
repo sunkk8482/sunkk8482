@@ -26,7 +26,7 @@
   인천대학교 임베디드시스템공학과<br/>
   IPG AUTOMOTIVE CarMaker User Training 수료<br/>
   삼성 SDS 2023 동계 알고리즘 특강 수료<br/>
-  SSAFY 11기 임베디드트랙 진행 중<br/>
+  삼성청년 SW 아카데미 11기<br/>
 </p>
 <h2 align="center">🏆 수상 경력 🏆</h2>
 <p align="center">
