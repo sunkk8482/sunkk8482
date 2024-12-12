@@ -32,6 +32,8 @@
 <p align="center">
   인천대학교 자율주행SW챌린지 은상<br/>
   SSAFY 1학기 관통프로젝트 우수상<br/>
+  SSAFY 2학기 공통프로젝트 우수상<br/>
+  SSAFY 2학기 특화프로젝트 우수상<br/>
 </p>
 
 <div align="center">
