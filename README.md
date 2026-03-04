@@ -33,11 +33,6 @@
   SSAFY 2학기 특화프로젝트 우수상<br/>
 </p>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunkk8482" alt="Top Langs" />
-  </a>
-</div>
 
 <!--
 
